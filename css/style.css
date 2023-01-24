@@ -33,9 +33,14 @@ body {
   color: white;
   padding: 1rem;
   border-radius: 8px;
+  align-self: baseline;
+  margin: auto;
+  width: 93%;
 }
   
 .icon {
   font-size: 4rem;
+  order:-1;
+  align-self: center;
 }
 
